@@ -24,7 +24,7 @@ int main() {
 
 
 // ------------- DESIGN -------------
-/* 
+/*
 Program Name:
 Tax Calculator
 
